@@ -1,0 +1,38 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "admin123",
+      "email": "admin@example.com",
+      "role": "admin"
+    },
+    {
+      "id": 2,
+      "username": "manager",
+      "password": "manager123",
+      "email": "manager@example.com",
+      "role": "manager"
+    },
+    {
+      "id": 3,
+      "username": "employee",
+      "password": "employee123",
+      "email": "employee@example.com",
+      "role": "employee"
+    },
+    {
+      "id": 4,
+      "username": "employee",
+      "password": "employee123",
+      "email": "nguyenbaloi2407@gmail.com",
+      "role": "employee"
+    },
+    {
+      "id": "7d65",
+      "username": "loi",
+      "email": "nloi39016@gmail.com",
+      "password": "12345"
+    }
+  ]
+}
